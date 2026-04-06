@@ -1,4 +1,4 @@
-# RP2350 EFI – Open-Source Engine Control Unit
+# RP2350 EFI – Engine Control Unit
 
 A complete C/C++ EFI firmware skeleton targeting the **Raspberry Pi RP2350**
 (dual Cortex-M33, 150 MHz), demonstrating all major ECU subsystems including
