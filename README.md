@@ -1,7 +1,7 @@
 [ECU_EFI_Introduction.md](https://github.com/user-attachments/files/26493298/ECU_EFI_Introduction.md)
 # 引擎電控單元（ECU）與電子燃油噴射（EFI）編程技術入門指南
 
-> 文件編制日期：2026 年 4 月
+> 文件編制日期：2026 年 4 月 ,
 > 火箭鳥創客倉庫 開發 / 
 > 技術主題：引擎電控單元 · 電子燃油噴射 · 嵌入式系統開發
 
